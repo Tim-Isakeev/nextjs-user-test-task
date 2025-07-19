@@ -39,7 +39,7 @@ npm run dev
 ```
 ## 🌐 Демо
 - Онлайн-версия проекта доступна здесь:  
-- 👉 [https://nextjs-user-test-task.vercel.app/users] (https://nextjs-user-test-task.vercel.app/users)
+- 👉 [https://nextjs-user-test-task.vercel.app/users]
 
 - 👤 Автор
 - 🧑‍💻 Tim Isakeev
