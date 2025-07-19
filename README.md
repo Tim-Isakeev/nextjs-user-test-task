@@ -1,8 +1,3 @@
-<!-- banner -->
-<p align="center">
-  <img src="https://i.imgur.com/gEfY4aI.png" alt="Users App Banner" />
-</p>
-
 # 👨‍💻 Тестовое задание: Список пользователей (Next.js + TypeScript + Redux)
 
 Приложение с использованием **Next.js 15 (App Router)**, **TypeScript**, **Redux Toolkit** и **TailwindCSS**.
@@ -43,7 +38,8 @@ npm run dev
 
 ```
 ## 🌐 Демо
-- В процессе — скоро залью на Vercel
+- Онлайн-версия проекта доступна здесь:  
+- 👉 [https://nextjs-user-test-task.vercel.app/users] (https://nextjs-user-test-task.vercel.app/users)
 
 - 👤 Автор
 - 🧑‍💻 Tim Isakeev
